@@ -22,9 +22,8 @@ de um professor. Os dados fornecidos serão: valor da hora/aula,
 número de aulas dadas no mês e percentual de desconto do INSS.
 
 5) Ler uma temperatura em graus centígrados e apresentá-la 
-convertida em graus Fahrenheit. A fórmula de conversão é: F = (9*C
-+ 160)/5 onde F e a temperatura em Fahrenheit e C é a temperatura
-em centígrados.
+convertida em graus Fahrenheit. A fórmula de conversão é: F = (9*C + 160)/5 
+onde F e a temperatura em Fahrenheit e C é a temperatura em centígrados.
 
 6) Efetuar o cálculo da quantidade de litros de combustível gastos em 
 uma viagem, sabendo-se que o carro faz 12 km com um litro. 
